@@ -1,1 +1,23 @@
-[]
+[
+  {
+    "id": "greenhouse:gitlab:8556658002",
+    "source": "greenhouse",
+    "company": "GitLab",
+    "title": "AI Engineer",
+    "location": "Remote, Bangalore",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8556658002",
+    "posted_at": "2026-05-22T09:16:29-04:00",
+    "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p>\n<p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href=\"https://www.youtube.com/watch?v=OuZIb5zszQI\">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p>\n<p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h2><strong>An overview of this role</strong></h2>\n<p>As an AI Engineer at GitLab, you'll help build the foundation for GitLab's transformation into an AI-first company. Reporting to the Director, Enterprise AI, you'll be a hands-on technical leader responsible for delivering internal AI-powered solutions that drive measurable business outcomes.</p>\n<p>Building fast matters, but it's not enough on its own. This role starts with understanding the real problem: mapping how work moves across teams, tools, and handoffs, identifying the true constraint, and validating whether AI is the right solution before you begin development. From there, you'll take ownership from discovery through deployment, combining strong engineering skills with systems thinking and business understanding.</p>\n<p>Your initial focus will span Sales, Marketing, and Customer Support, where you will embed AI solutions into key systems and workflows. This role offers the opportunity to shape how GitLab team members work, improve flow across the organization, and help advance our mission in a remote, asynchronous, and values-driven environment.</p>\n<h2><strong>What you'll do</strong></h2>\n<ul>\n<li>Diagnose business problems before building solutions. Map workflows, identify constraints, and confirm whether AI is the right intervention. Be prepared to say \"this doesn't need AI\" when that's the honest answer.</li>\n<li>Own AI initiatives end-to-end, from stakeholder discovery and technical design through implementation, deployment, and iteration.</li>\n<li>Design, develop, and ship AI-powered solutions quickly, delivering working prototypes in days, not months, with a focus on practical outcomes and measurable business value.</li>\n<li>Improve organizational flow by building solutions that reduce bottlenecks, shorten lead times, and increase throughput. Measure success using flow metrics alongside adoption and ROI.</li>\n<li>Integrate AI capabilities into existing systems and workflows using APIs, orchestration tools, and modern AI platforms, including GitLab Duo Agent Platform, where appropriate. The right tool wins, whether that's custom code, a platform, or a well-crafted prompt.</li>\n<li>Be Customer Zero: leverage and showcase GitLab's AI offerings wherever possible, feeding real-world usage insights back to R&amp;D.</li>\n<li>Partner closely with stakeholders across functions to understand the real constraints. Ask the right questions, bridge technical and non-technical perspectives, and align on outcomes…",
+    "track": "AI Automation",
+    "track_priority": "normal",
+    "resume_variant": "ai-pm.docx",
+    "experience_stated": false,
+    "min_years_required": null,
+    "score": null,
+    "why": "",
+    "gap": "",
+    "verdict": null,
+    "discovered_at": "2026-09-08T14:17:24.080668+00:00"
+  }
+]
