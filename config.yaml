@@ -1,0 +1,69 @@
+# Job Radar configuration
+# This is the only file you should need to edit regularly.
+# - Add companies under `companies:` to pull from their ATS.
+# - Add/adjust tracks under `tracks:` to change what titles you match.
+# - Add RSS/Google Alerts feeds under `feeds:`.
+# See README.md for step-by-step instructions.
+
+profile:
+  years_experience: 1.2
+  base_location: Vadodara, Gujarat
+  open_to:
+    - Bengaluru
+    - Mumbai
+    - Pune
+    - Hyderabad
+    - Ahmedabad
+    - Gandhinagar
+    - Delhi NCR
+    - Remote
+
+tracks:
+  - name: Business Analyst
+    include: [business analyst, ba, requirements analyst, product analyst]
+    resume_variant: business-analyst.docx
+
+  - name: Data Analyst
+    include: [data analyst, analytics analyst, business intelligence, bi analyst, reporting analyst]
+    resume_variant: bi-analyst.docx
+
+  - name: AI Automation
+    include: [ai engineer, automation, ai analyst, llm, workflow automation, solutions engineer]
+    resume_variant: ai-pm.docx
+
+  - name: GRC
+    priority: low
+    include: [grc, it audit, itgc, risk and controls, data privacy, compliance analyst]
+    resume_variant: it-audit.docx
+
+exclude_titles:
+  - senior
+  - lead
+  - principal
+  - manager
+  - director
+  - head of
+  - architect
+  - sdr
+  - field sales
+
+experience:
+  max_years_required: 3
+
+# Scaffold companies. Verify each slug still resolves before relying on it —
+# the collector logs a failure to data/runs.json if one 404s, and the
+# dashboard's System Health view will flag any source that's been down for
+# 3 runs in a row. Swap in your own target companies as you find them.
+companies:
+  - {slug: gitlab, source: greenhouse}
+  - {slug: robinhood, source: greenhouse}
+  - {slug: figma, source: greenhouse}
+  - {slug: netflix, source: lever}
+  - {slug: rippling, source: ashby}
+
+feeds: []
+  # - https://www.google.com/alerts/feeds/...
+
+alerts:
+  min_score_high_priority: 7
+  min_score_digest: 5
