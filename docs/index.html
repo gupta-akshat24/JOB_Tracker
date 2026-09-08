@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Job Radar</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="top-inner">
+      <p class="brand">Job Radar<span class="dot">·</span><span id="last-run-chip" style="color:var(--text-faint); font-weight:400; font-size:12px;"></span></p>
+      <nav class="tabs">
+        <a href="#feed" data-tab="feed">Feed</a>
+        <a href="#where" data-tab="where">Where the jobs are</a>
+        <a href="#funnel" data-tab="funnel">My funnel</a>
+        <a href="#health" data-tab="health">System health</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <div id="view"></div>
+    <footer class="foot">Job Radar — reads data/jobs.json, runs.json and pipeline.json. Static, no backend.</footer>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

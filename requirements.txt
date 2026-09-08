@@ -1,0 +1,7 @@
+# Pinned per the project's "every dependency pinned" constraint.
+PyYAML==6.0.2
+
+# Optional — only needed if you wire up scripts/sheets_sync.py.
+# The collector itself never imports these.
+gspread==6.1.4
+google-auth==2.35.0
