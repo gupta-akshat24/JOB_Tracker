@@ -1,5 +1,26 @@
 [
   {
+    "id": "greenhouse:gitlab:8770702002",
+    "source": "greenhouse",
+    "company": "GitLab",
+    "title": "Staff Backend Engineer, Database Automation (Go)",
+    "location": "Remote, Canada; Remote, United States",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8770702002",
+    "posted_at": "2026-09-09T14:06:57-04:00",
+    "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p>\n<p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href=\"https://www.youtube.com/watch?v=OuZIb5zszQI\">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p>\n<p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h2>An overview of this role</h2>\n<p>As a Senior or Staff Backend Engineer with the <a class=\"textLink\" href=\"https://handbook.gitlab.com/handbook/engineering/data-engineering/database-excellence/\">Database Excellence group</a>, you'll build and evolve database automation and PostgreSQL as a service capabilities for GitLab. The level will be determined during the hiring process. You'll use Go to automate the full lifecycle of PostgreSQL across GitLab's infrastructure, making database operations safer, more consistent, and easier to scale for databases that sit behind high-throughput, always-on internet services. You'll work closely with partner teams to shape how GitLab provisions and manages PostgreSQL in a fully remote, highly collaborative environment.</p>\n<p>Some examples of our projects:</p>\n<ul>\n<li value=\"1\"><a class=\"textLink\" href=\"https://gitlab.com/gitlab-org/database-team/traffic-replay-poc\">SQL Traffic Replay Tooling</a>, which validates upgrades and changes against real production workloads.</li>\n<li value=\"2\"><a class=\"textLink\" href=\"https://gitlab.com/groups/gitlab-org/database-team/backend/-/work_items/1\">PostgreSQL as a Service Platform</a>, which provides standardized, automated provisioning and lifecycle management for internal product databases.</li>\n<li value=\"3\"><a class=\"textLink\" href=\"https://gitlab.com/groups/gitlab-com/gl-infra/data-access/dbo/-/work_items/75\">PostgreSQL Major Version Upgrade Automation</a>, which supports safe, repeatable major upgrades at GitLab.com scale.</li>\n</ul>\n<h2>What you’ll do</h2>\n<ul>\n<li value=\"1\">Design, build, and maintain Go-based automation that manages the full PostgreSQL lifecycle, including provisioning, configuration, upgrades, failover, scaling, and decommissioning, reducing reactive operational work that currently takes more than 80% of the team's time.</li>\n<li value=\"2\">Build automation that works across infrastructure-as-code tooling and cloud infrastructure, and evaluate operator-based approaches as the platform evolves.</li>\n<li value=\"3\">Use AI agents as a regular part of building and operating services, including implementation, review, and reducing repetitive work, while keeping the context agents need in the repository so the whole team can build on it.</li>\n<li value=\"4\">Build for internet scale by designing automation and services for high-throughput, always-on production workloads, where GitLab.com traffic sets the bar for correctness, latency, and availability.</li>\n<li value=\"5\">Integrate…",
+    "track": "AI Automation",
+    "track_priority": "normal",
+    "resume_variant": "ai-pm.docx",
+    "experience_stated": false,
+    "min_years_required": null,
+    "score": null,
+    "why": "",
+    "gap": "",
+    "verdict": null,
+    "discovered_at": "2026-09-09T20:46:02.305375+00:00"
+  },
+  {
     "id": "greenhouse:gitlab:8556658002",
     "source": "greenhouse",
     "company": "GitLab",
