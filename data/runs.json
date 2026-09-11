@@ -1090,5 +1090,57 @@
     "high_priority_sent": 0,
     "digest_sent": false,
     "digest_size": 0
+  },
+  {
+    "started_at": "2026-09-11T20:47:05.842737+00:00",
+    "finished_at": "2026-09-11T20:47:10.006717+00:00",
+    "date_ist": "2026-09-12",
+    "duration_seconds": 4.16,
+    "status": "ok",
+    "sources": {
+      "greenhouse": {
+        "targets": 3,
+        "jobs": 504,
+        "failures": []
+      },
+      "lever": {
+        "targets": 1,
+        "jobs": 0,
+        "failures": [
+          {
+            "target": "netflix",
+            "error": "fetch failed: HTTP Error 404: Not Found"
+          }
+        ]
+      },
+      "ashby": {
+        "targets": 1,
+        "jobs": 0,
+        "failures": [
+          {
+            "target": "rippling",
+            "error": "fetch failed: HTTP Error 404: Not Found"
+          }
+        ]
+      },
+      "rss": {
+        "targets": 0,
+        "jobs": 0,
+        "failures": []
+      }
+    },
+    "filter": {
+      "input": 504,
+      "dropped_seen": 502,
+      "dropped_excluded_title": 1,
+      "dropped_no_track_match": 1,
+      "dropped_location": 0,
+      "dropped_experience": 0,
+      "kept": 0
+    },
+    "scored": 0,
+    "high_priority_sent": 0,
+    "digest_sent": false,
+    "digest_size": 0
   }
 ]
