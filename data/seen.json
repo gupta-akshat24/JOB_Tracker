@@ -170,6 +170,8 @@
   "greenhouse:figma:6181922004",
   "greenhouse:figma:6186265004",
   "greenhouse:figma:6189444004",
+  "greenhouse:figma:6191672004",
+  "greenhouse:figma:6191882004",
   "greenhouse:gitlab:8396674002",
   "greenhouse:gitlab:8448283002",
   "greenhouse:gitlab:8451512002",
@@ -419,12 +421,14 @@
   "greenhouse:gitlab:8789017002",
   "greenhouse:gitlab:8789857002",
   "greenhouse:gitlab:8790102002",
+  "greenhouse:gitlab:8790317002",
   "greenhouse:gitlab:8790538002",
   "greenhouse:gitlab:8790705002",
   "greenhouse:gitlab:8792475002",
   "greenhouse:gitlab:8792585002",
   "greenhouse:gitlab:8795736002",
   "greenhouse:gitlab:8801523002",
+  "greenhouse:gitlab:8802261002",
   "greenhouse:gitlab:8806017002",
   "greenhouse:gitlab:8808524002",
   "greenhouse:robinhood:4738660",
@@ -596,5 +600,6 @@
   "greenhouse:robinhood:8199729",
   "greenhouse:robinhood:8199744",
   "greenhouse:robinhood:8199973",
-  "greenhouse:robinhood:8202874"
+  "greenhouse:robinhood:8202874",
+  "greenhouse:robinhood:8204521"
 ]
