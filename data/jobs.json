@@ -1,5 +1,26 @@
 [
   {
+    "id": "greenhouse:gitlab:8827370002",
+    "source": "greenhouse",
+    "company": "GitLab",
+    "title": "Staff Data Analyst",
+    "location": "Bangalore, India",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8827370002",
+    "posted_at": "2026-10-01T10:59:34-04:00",
+    "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p>\n<p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href=\"https://www.youtube.com/watch?v=OuZIb5zszQI\">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p>\n<p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><p><strong>An overview of this role</strong><br>As a Staff Data Analyst, you'll turn raw data into actionable insights that inform strategic decisions across GitLab's global Support Engineering organization. You'll design dashboards, reports, and data models that help leaders monitor performance, optimize costs, and improve customer outcomes. You'll also promote data innovation by experimenting thoughtfully and working through complex problems.<br><br><strong>What you'll do</strong></p>\n<ul>\n<li>Own annual operating plan and capacity planning through data modeling and validation that support workforce and budget decisions.</li>\n<li>Build and maintain utilization and team-performance scorecards, including automated alerting that surfaces trends in real time.</li>\n<li>Analyze Support Economics, including cost-per-ticket modeling, self-service savings, and product quality costs.</li>\n<li>Develop performance indexes and heatmaps that identify product areas and customers using the most support resources.</li>\n<li>Lead dashboarding for AI adoption and return on investment, measuring the business impact of AI-driven initiatives across Support Engineering.</li>\n<li>Partner with go-to-market teams on predictive analytics and churn-prevention models that identify at-risk customers.</li>\n<li>Define and refine unified customer-schema requirements to create consistent data across systems and a single source of truth.</li>\n<li>Deliver Monthly Business Review telemetry, executive-ready reporting packages, recurring operational reports, and ad hoc analysis.</li>\n</ul>\n<p><strong>What you'll bring</strong></p>\n<ul>\n<li>Experience as a business intelligence analyst, analytics engineer, or in a similar data role, ideally in a software as a service or technology company.</li>\n<li>Experience partnering with Technical Support, Business Operations, Product Engineering, or similar organizations.</li>\n<li>Fluency in SQL, including complex multi-table joins, grouping and aggregation, common table expressions, and conditional filters.</li>\n<li>Hands-on experience building dashboards and reports in Zendesk Explore, Tableau, Looker, or similar business intelligence tools.</li>\n<li>Translate ambiguous business questions into structured analytical frameworks.</li>\n<li>Present findings clearly to technical and non-technical stakeholders.</li>\n<li>Plan and prioritize work independently in a remote, cross-functional environment across time zones.</li>\n<li>You may also bring experience with large language…",
+    "track": "Data Analyst",
+    "track_priority": "normal",
+    "resume_variant": "bi-analyst.docx",
+    "experience_stated": false,
+    "min_years_required": null,
+    "score": null,
+    "why": "",
+    "gap": "",
+    "verdict": null,
+    "discovered_at": "2026-10-01T20:14:40.864972+00:00"
+  },
+  {
     "id": "greenhouse:gitlab:8800489002",
     "source": "greenhouse",
     "company": "GitLab",
