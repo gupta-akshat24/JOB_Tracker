@@ -668,6 +668,7 @@
   "greenhouse:gitlab:8891730002",
   "greenhouse:gitlab:8891827002",
   "greenhouse:gitlab:8891836002",
+  "greenhouse:gitlab:8893054002",
   "greenhouse:gitlab:8894457002",
   "greenhouse:gitlab:8894531002",
   "greenhouse:gitlab:8894806002",
@@ -721,11 +722,14 @@
   "greenhouse:gitlab:8926435002",
   "greenhouse:gitlab:8927560002",
   "greenhouse:gitlab:8927630002",
+  "greenhouse:gitlab:8928280002",
   "greenhouse:gitlab:8928675002",
+  "greenhouse:gitlab:8928711002",
   "greenhouse:gitlab:8928762002",
   "greenhouse:gitlab:8929004002",
   "greenhouse:gitlab:8929477002",
   "greenhouse:gitlab:8929514002",
+  "greenhouse:gitlab:8931298002",
   "greenhouse:robinhood:4738660",
   "greenhouse:robinhood:5319465",
   "greenhouse:robinhood:5616144",
@@ -1035,7 +1039,9 @@
   "greenhouse:robinhood:8334429",
   "greenhouse:robinhood:8335168",
   "greenhouse:robinhood:8346031",
+  "greenhouse:robinhood:8346036",
   "greenhouse:robinhood:8348035",
   "greenhouse:robinhood:8348038",
-  "greenhouse:robinhood:8350199"
+  "greenhouse:robinhood:8350199",
+  "greenhouse:robinhood:8350712"
 ]
