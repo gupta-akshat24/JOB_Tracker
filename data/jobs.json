@@ -1,5 +1,26 @@
 [
   {
+    "id": "greenhouse:gitlab:8940982002",
+    "source": "greenhouse",
+    "company": "GitLab",
+    "title": "Applied AI Engineer, Enterprise AI",
+    "location": "Bangalore, India",
+    "remote": true,
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8940982002",
+    "posted_at": "2026-11-23T17:02:31-05:00",
+    "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p>\n<p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href=\"https://www.youtube.com/watch?v=OuZIb5zszQI\">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p>\n<p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h2><strong>An overview of this role</strong></h2>\n<p>As an <strong>Applied AI Engineer</strong> at GitLab, you'll build and deploy AI-powered solutions for GitLab's own teams. You'll join Enterprise AI in the CIO organization, reporting to the Senior Director, Enterprise AI. This is a hands-on engineering role: you'll write production code and partner with senior engineers and internal business stakeholders to solve problems and deliver measurable outcomes. Your focus is GitLab's internal operations, rather than customer implementations or development of the GitLab product.</p>\n<p>Building fast matters, and we want engineers who ship. But speed without understanding the problem leads to the wrong solution shipped quickly. You'll partner with senior engineers and stakeholders to understand the real problem first: how work moves across teams, where the real constraint lives, and whether AI is the right intervention. From there, you'll take ownership of the build and deployment, combining strong engineering skills with curiosity about the business systems you're improving.</p>\n<p>Your initial focus will span GitLab's own Sales, Marketing, and Customer Support teams, where you'll embed AI solutions into the systems and workflows they use every day. This role offers the opportunity to grow as an engineer while shaping how GitLab team members work, in a remote, asynchronous, and values-driven environment.</p>\n<h2><strong>What you'll do</strong></h2>\n<ul>\n<li>Contribute to problem diagnosis alongside the team. Engage with stakeholders to understand the real constraint before reaching for a solution, and be willing to flag when AI isn't the right answer.</li>\n<li>Own the build and deployment of AI solutions, from technical design through implementation, deployment, and iteration. Partner with senior engineers on discovery and scoping.</li>\n<li>Design, develop, and ship AI-powered solutions quickly, delivering working prototypes in days, not months, with a focus on practical outcomes and measurable business value.</li>\n<li>Build solutions that reduce bottlenecks, shorten lead times, and increase throughput. Track flow, adoption, and ROI metrics defined for the work.</li>\n<li>Integrate AI capabilities into GitLab's internal business systems and workflows using APIs, orchestration tools, and modern AI platforms, including GitLab Duo Agent Platform, where appropriate. The right tool wins, whether that's custom code, a platform, or a well-crafted prompt.</li>\n<li>Be Customer Zero: use…",
+    "track": "AI Automation",
+    "track_priority": "normal",
+    "resume_variant": "ai-pm.docx",
+    "experience_stated": false,
+    "min_years_required": null,
+    "score": null,
+    "why": "",
+    "gap": "",
+    "verdict": null,
+    "discovered_at": "2026-11-24T00:15:10.274001+00:00"
+  },
+  {
     "id": "greenhouse:gitlab:8827370002",
     "source": "greenhouse",
     "company": "GitLab",
